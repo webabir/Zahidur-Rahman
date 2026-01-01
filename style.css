@@ -35,8 +35,6 @@ body {
   background: linear-gradient(180deg, #F0F4FF 0%, #FFFFFF 100%);
   padding: 50px 0;
   position: relative;
-  height: 90dvh;
-  min-height: 600px;
 }
 .profile-img-wrapper {
   width: 180px;
